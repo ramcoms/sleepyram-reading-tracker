@@ -5,7 +5,7 @@ import urllib.request
 from datetime import datetime, timezone
 
 API_URL = "https://api.hardcover.app/v1/graphql"
-TOKEN = os.environ["hc_pat_jai6T5zioFB1mrnnUYQxHkZsFbEBGhW9EWXxVwFWkyB3"]
+TOKEN = os.environ["HARDCOVER_API_TOKEN"]
 
 QUERY = """
 query {
