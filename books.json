@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T04:50:25.132769+00:00",
+  "updated": "2026-11-24T05:42:14.363329+00:00",
   "currently_reading": [
     {
       "id": 458947,
@@ -7,8 +7,8 @@
       "author": "Sarah J. Maas",
       "cover": "https://assets.hardcover.app/external_data/28473256/bd6c6d6b78cf3abefcd16ecc344bb27796dc9af6.jpeg",
       "pages": 728,
-      "progress": 0,
-      "percentage": 0,
+      "progress": 37,
+      "percentage": 5,
       "rating": null,
       "started_date": null,
       "finished_date": null,
@@ -16,6 +16,19 @@
     }
   ],
   "read": [
+    {
+      "id": 2189129,
+      "title": "Ang Suklam Sa Ating Naaagnas Na Balat",
+      "author": "Ronaldo S.  Vivo Jr.",
+      "cover": "https://assets.hardcover.app/external_data/1713060/91cf0fc626cd04c64e2aec2ed0461d1582f40601.jpeg",
+      "pages": 367,
+      "progress": 367,
+      "percentage": 100,
+      "rating": 5.0,
+      "started_date": "2026-10-01",
+      "finished_date": "2026-10-11",
+      "status": "read"
+    },
     {
       "id": 427578,
       "title": "Project Hail Mary",
@@ -105,19 +118,6 @@
       "rating": null,
       "started_date": null,
       "finished_date": "2024-11-24",
-      "status": "read"
-    },
-    {
-      "id": 2189129,
-      "title": "Ang Suklam Sa Ating Naaagnas Na Balat",
-      "author": "Ronaldo S.  Vivo Jr.",
-      "cover": "https://assets.hardcover.app/external_data/1713060/91cf0fc626cd04c64e2aec2ed0461d1582f40601.jpeg",
-      "pages": 367,
-      "progress": 0,
-      "percentage": 0,
-      "rating": 5.0,
-      "started_date": null,
-      "finished_date": null,
       "status": "read"
     },
     {
