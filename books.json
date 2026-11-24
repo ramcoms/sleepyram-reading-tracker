@@ -1,17 +1,6 @@
 {
-  "updated": "2026-11-24T03:50:13.347041+00:00",
+  "updated": "2026-11-24T04:34:51.786118+00:00",
   "currently_reading": [
-    {
-      "id": 427578,
-      "title": "Project Hail Mary",
-      "author": "Andy Weir",
-      "cover": "https://assets.hardcover.app/editions/3274049/8741341047797682-91mYu67RfUL._SL1500_.jpg",
-      "pages": 476,
-      "progress": 0,
-      "percentage": 0,
-      "rating": null,
-      "status": "currently-reading"
-    },
     {
       "id": 458947,
       "title": "A Court of Wings and Ruin",
@@ -25,6 +14,17 @@
     }
   ],
   "read": [
+    {
+      "id": 427578,
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "cover": "https://assets.hardcover.app/editions/3274049/8741341047797682-91mYu67RfUL._SL1500_.jpg",
+      "pages": 476,
+      "progress": 476,
+      "percentage": 100,
+      "rating": null,
+      "status": "read"
+    },
     {
       "id": 809366,
       "title": "What You Are Looking for Is in the Library",
