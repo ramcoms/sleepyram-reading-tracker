@@ -59,8 +59,12 @@ with urllib.request.urlopen(request, timeout=30) as response:
 
 if "errors" in result:
     raise RuntimeError(json.dumps(result["errors"], indent=2))
+users = result.get("data", {}).get("me") or []
 
-entries = result["data"]["me"]["user_books"]
+if not users:
+    raise RuntimeError("Hardcover API returned no user.")
+
+entries = users[0].get("user_books") or []
 
 books = []
 
