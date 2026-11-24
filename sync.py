@@ -9,6 +9,7 @@ TOKEN = os.environ["HARDCOVER_API_TOKEN"]
 
 QUERY = """
 
+
 query {
   me {
     user_books(
@@ -20,6 +21,8 @@ query {
     ) {
       status_id
       rating
+      last_read_date
+
       book {
         id
         title
@@ -33,10 +36,13 @@ query {
           }
         }
       }
+
       user_book_reads(
         order_by: { id: desc }
         limit: 1
       ) {
+        started_at
+        finished_at
         progress_pages
       }
     }
@@ -94,10 +100,16 @@ for entry in entries:
     if total_pages > 0:
         percentage = round(progress / total_pages * 100)
 
+  finished_date = (
+    (reads[0].get("finished_at") if reads else None)
+    or entry.get("last_read_date")
+)
+
     books.append({
         "id": book.get("id"),
         "title": book.get("title"),
         "author": ", ".join(authors) or "Unknown author",
+        "finished_date": finished_date,
         "cover": (book.get("image") or {}).get("url"),
         "pages": total_pages,
         "progress": progress,
@@ -108,7 +120,6 @@ for entry in entries:
             if status == 2 else "read"
         )
     })
-
 
 data = {
     "updated": datetime.now(timezone.utc).isoformat(),
