@@ -8,6 +8,7 @@ API_URL = "https://api.hardcover.app/v1/graphql"
 TOKEN = os.environ["HARDCOVER_API_TOKEN"]
 
 QUERY = """
+
 query {
   me {
     user_books(
@@ -33,7 +34,7 @@ query {
         }
       }
       user_book_reads(
-        order_by: { updated_at: desc }
+        order_by: { id: desc }
         limit: 1
       ) {
         progress_pages
