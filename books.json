@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T04:34:51.786118+00:00",
+  "updated": "2026-11-24T04:50:25.132769+00:00",
   "currently_reading": [
     {
       "id": 458947,
@@ -10,6 +10,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": null,
       "status": "currently-reading"
     }
   ],
@@ -23,6 +25,8 @@
       "progress": 476,
       "percentage": 100,
       "rating": null,
+      "started_date": "2026-01-11",
+      "finished_date": "2026-03-01",
       "status": "read"
     },
     {
@@ -34,6 +38,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-03-18",
       "status": "read"
     },
     {
@@ -45,6 +51,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2025-03-04",
       "status": "read"
     },
     {
@@ -56,6 +64,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 3.0,
+      "started_date": null,
+      "finished_date": "2023-09-29",
       "status": "read"
     },
     {
@@ -67,6 +77,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-12-07",
       "status": "read"
     },
     {
@@ -78,6 +90,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 5.0,
+      "started_date": null,
+      "finished_date": "2026-03-27",
       "status": "read"
     },
     {
@@ -89,6 +103,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-11-24",
       "status": "read"
     },
     {
@@ -100,6 +116,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 5.0,
+      "started_date": null,
+      "finished_date": null,
       "status": "read"
     },
     {
@@ -111,6 +129,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-07-24",
       "status": "read"
     },
     {
@@ -122,6 +142,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-12-10",
       "status": "read"
     },
     {
@@ -133,6 +155,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.5,
+      "started_date": null,
+      "finished_date": "2026-10-14",
       "status": "read"
     },
     {
@@ -144,6 +168,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2023-08-26",
       "status": "read"
     },
     {
@@ -155,6 +181,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2026-08-13",
       "status": "read"
     },
     {
@@ -166,6 +194,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2023-09-07",
       "status": "read"
     },
     {
@@ -177,6 +207,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2026-05-18",
       "status": "read"
     },
     {
@@ -188,6 +220,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-10-19",
       "status": "read"
     },
     {
@@ -199,6 +233,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 3.0,
+      "started_date": null,
+      "finished_date": "2025-05-24",
       "status": "read"
     },
     {
@@ -210,6 +246,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2025-08-18",
       "status": "read"
     },
     {
@@ -221,6 +259,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2025-10-30",
       "status": "read"
     },
     {
@@ -232,6 +272,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2023-12-10",
       "status": "read"
     },
     {
@@ -243,6 +285,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 3.0,
+      "started_date": null,
+      "finished_date": "2025-04-05",
       "status": "read"
     },
     {
@@ -254,6 +298,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-09-26",
       "status": "read"
     },
     {
@@ -265,6 +311,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 3.0,
+      "started_date": null,
+      "finished_date": "2026-03-06",
       "status": "read"
     },
     {
@@ -276,6 +324,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2023-04-30",
       "status": "read"
     },
     {
@@ -287,6 +337,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 3.0,
+      "started_date": null,
+      "finished_date": "2025-05-12",
       "status": "read"
     },
     {
@@ -298,6 +350,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 3.0,
+      "started_date": null,
+      "finished_date": "2025-05-02",
       "status": "read"
     },
     {
@@ -309,6 +363,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2026-05-08",
       "status": "read"
     },
     {
@@ -320,6 +376,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2025-01-03",
       "status": "read"
     },
     {
@@ -331,6 +389,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-11-07",
       "status": "read"
     },
     {
@@ -342,6 +402,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 5.0,
+      "started_date": null,
+      "finished_date": "2026-11-20",
       "status": "read"
     },
     {
@@ -353,6 +415,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2023-10-21",
       "status": "read"
     },
     {
@@ -364,6 +428,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2025-04-14",
       "status": "read"
     },
     {
@@ -375,6 +441,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2023-08-21",
       "status": "read"
     },
     {
@@ -386,6 +454,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2025-09-23",
       "status": "read"
     },
     {
@@ -397,6 +467,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-01-11",
       "status": "read"
     },
     {
@@ -408,6 +480,8 @@
       "progress": 0,
       "percentage": null,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-08-25",
       "status": "read"
     },
     {
@@ -419,6 +493,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2025-06-28",
       "status": "read"
     },
     {
@@ -430,6 +506,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2023-03-31",
       "status": "read"
     },
     {
@@ -441,6 +519,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-09-25",
       "status": "read"
     },
     {
@@ -452,6 +532,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2026-11-08",
       "status": "read"
     },
     {
@@ -463,6 +545,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2026-11-15",
       "status": "read"
     },
     {
@@ -474,6 +558,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2026-09-03",
       "status": "read"
     },
     {
@@ -485,6 +571,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-05-13",
       "status": "read"
     },
     {
@@ -496,6 +584,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 5.0,
+      "started_date": null,
+      "finished_date": "2026-10-24",
       "status": "read"
     },
     {
@@ -507,6 +597,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2026-11-02",
       "status": "read"
     },
     {
@@ -518,6 +610,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-09-06",
       "status": "read"
     },
     {
@@ -529,6 +623,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 3.0,
+      "started_date": null,
+      "finished_date": "2026-08-27",
       "status": "read"
     },
     {
@@ -540,6 +636,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 3.0,
+      "started_date": null,
+      "finished_date": "2023-05-31",
       "status": "read"
     },
     {
@@ -551,6 +649,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 3.0,
+      "started_date": null,
+      "finished_date": "2025-07-10",
       "status": "read"
     },
     {
@@ -562,6 +662,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2025-12-07",
       "status": "read"
     },
     {
@@ -573,6 +675,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2026-05-02",
       "status": "read"
     },
     {
@@ -584,6 +688,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 5.0,
+      "started_date": null,
+      "finished_date": "2024-10-04",
       "status": "read"
     },
     {
@@ -595,6 +701,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 3.0,
+      "started_date": null,
+      "finished_date": "2025-12-10",
       "status": "read"
     },
     {
@@ -606,6 +714,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2023-08-04",
       "status": "read"
     },
     {
@@ -617,6 +727,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 2.0,
+      "started_date": null,
+      "finished_date": "2023-02-28",
       "status": "read"
     },
     {
@@ -628,6 +740,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 3.5,
+      "started_date": null,
+      "finished_date": "2023-07-16",
       "status": "read"
     },
     {
@@ -639,6 +753,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.5,
+      "started_date": null,
+      "finished_date": "2023-07-27",
       "status": "read"
     },
     {
@@ -650,6 +766,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-06-21",
       "status": "read"
     },
     {
@@ -661,6 +779,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 3.0,
+      "started_date": null,
+      "finished_date": "2025-01-06",
       "status": "read"
     },
     {
@@ -672,6 +792,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-08-13",
       "status": "read"
     },
     {
@@ -683,6 +805,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2023-12-30",
       "status": "read"
     },
     {
@@ -694,6 +818,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2023-09-10",
       "status": "read"
     },
     {
@@ -705,6 +831,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-02-27",
       "status": "read"
     },
     {
@@ -716,6 +844,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2023-09-19",
       "status": "read"
     },
     {
@@ -727,6 +857,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 3.0,
+      "started_date": null,
+      "finished_date": "2025-11-17",
       "status": "read"
     },
     {
@@ -738,6 +870,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-02-16",
       "status": "read"
     },
     {
@@ -749,6 +883,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 5.0,
+      "started_date": null,
+      "finished_date": "2025-01-14",
       "status": "read"
     },
     {
@@ -760,6 +896,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2026-04-24",
       "status": "read"
     },
     {
@@ -771,6 +909,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2025-01-02",
       "status": "read"
     },
     {
@@ -782,6 +922,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2023-10-12",
       "status": "read"
     },
     {
@@ -793,6 +935,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2023-11-18",
       "status": "read"
     },
     {
@@ -804,6 +948,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-10-16",
       "status": "read"
     },
     {
@@ -815,6 +961,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-06-06",
       "status": "read"
     },
     {
@@ -826,6 +974,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-12-03",
       "status": "read"
     },
     {
@@ -837,6 +987,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2023-10-31",
       "status": "read"
     },
     {
@@ -848,6 +1000,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2023-11-12",
       "status": "read"
     },
     {
@@ -859,6 +1013,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2025-04-25",
       "status": "read"
     },
     {
@@ -870,6 +1026,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 3.5,
+      "started_date": null,
+      "finished_date": "2023-01-31",
       "status": "read"
     },
     {
@@ -881,6 +1039,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2025-03-13",
       "status": "read"
     },
     {
@@ -892,6 +1052,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2025-01-28",
       "status": "read"
     },
     {
@@ -903,6 +1065,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-01-23",
       "status": "read"
     },
     {
@@ -914,6 +1078,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2026-09-30",
       "status": "read"
     },
     {
@@ -925,6 +1091,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 5.0,
+      "started_date": null,
+      "finished_date": "2025-06-06",
       "status": "read"
     },
     {
@@ -936,6 +1104,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-06-30",
       "status": "read"
     },
     {
@@ -947,6 +1117,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2026-07-15",
       "status": "read"
     },
     {
@@ -958,6 +1130,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": null,
+      "started_date": null,
+      "finished_date": "2024-10-27",
       "status": "read"
     },
     {
@@ -969,6 +1143,8 @@
       "progress": 0,
       "percentage": null,
       "rating": 4.0,
+      "started_date": null,
+      "finished_date": "2023-07-05",
       "status": "read"
     },
     {
@@ -980,6 +1156,8 @@
       "progress": 0,
       "percentage": 0,
       "rating": 5.0,
+      "started_date": null,
+      "finished_date": "2026-01-05",
       "status": "read"
     }
   ]
