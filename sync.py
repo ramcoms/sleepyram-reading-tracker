@@ -72,7 +72,6 @@ if not users:
 
 entries = users[0].get("user_books") or []
 
-
 books = []
 
 for entry in entries:
@@ -90,6 +89,16 @@ for entry in entries:
 
     total_pages = book.get("pages") or 0
 
+    # Get reading dates
+    finished_date = (
+        (reads[0].get("finished_at") if reads else None)
+        or entry.get("last_read_date")
+    )
+
+    started_date = (
+        (reads[0].get("started_at") if reads else None)
+    )
+
     authors = [
         item.get("author", {}).get("name")
         for item in (book.get("contributions") or [])
@@ -100,21 +109,17 @@ for entry in entries:
     if total_pages > 0:
         percentage = round(progress / total_pages * 100)
 
-  finished_date = (
-    (reads[0].get("finished_at") if reads else None)
-    or entry.get("last_read_date")
-)
-
     books.append({
         "id": book.get("id"),
         "title": book.get("title"),
         "author": ", ".join(authors) or "Unknown author",
-        "finished_date": finished_date,
         "cover": (book.get("image") or {}).get("url"),
         "pages": total_pages,
         "progress": progress,
         "percentage": percentage,
         "rating": entry.get("rating"),
+        "started_date": started_date,
+        "finished_date": finished_date,
         "status": (
             "currently-reading"
             if status == 2 else "read"
