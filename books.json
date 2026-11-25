@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-24T05:42:14.363329+00:00",
+  "updated": "2026-11-25T10:17:15.358923+00:00",
   "currently_reading": [
+    {
+      "id": 445392,
+      "title": "Simplify",
+      "author": "Joshua Becker",
+      "cover": null,
+      "pages": 46,
+      "progress": 30,
+      "percentage": 65,
+      "rating": null,
+      "started_date": "2026-11-23",
+      "finished_date": null,
+      "status": "currently-reading"
+    },
     {
       "id": 458947,
       "title": "A Court of Wings and Ruin",
