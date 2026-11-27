@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-26T10:33:58.108164+00:00",
+  "updated": "2026-11-27T10:37:21.819904+00:00",
   "currently_reading": [
+    {
+      "id": 458947,
+      "title": "A Court of Wings and Ruin",
+      "author": "Sarah J. Maas",
+      "cover": "https://assets.hardcover.app/external_data/28473256/bd6c6d6b78cf3abefcd16ecc344bb27796dc9af6.jpeg",
+      "pages": 728,
+      "progress": 96,
+      "percentage": 13,
+      "rating": null,
+      "started_date": null,
+      "finished_date": null,
+      "status": "currently-reading"
+    },
     {
       "id": 445392,
       "title": "Simplify",
@@ -11,19 +24,6 @@
       "percentage": 65,
       "rating": null,
       "started_date": "2026-11-23",
-      "finished_date": null,
-      "status": "currently-reading"
-    },
-    {
-      "id": 458947,
-      "title": "A Court of Wings and Ruin",
-      "author": "Sarah J. Maas",
-      "cover": "https://assets.hardcover.app/external_data/28473256/bd6c6d6b78cf3abefcd16ecc344bb27796dc9af6.jpeg",
-      "pages": 728,
-      "progress": 37,
-      "percentage": 5,
-      "rating": null,
-      "started_date": null,
       "finished_date": null,
       "status": "currently-reading"
     }
