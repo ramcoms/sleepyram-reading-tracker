@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-27T10:37:21.819904+00:00",
+  "updated": "2026-11-28T09:54:46.688766+00:00",
   "currently_reading": [
+    {
+      "id": 887391,
+      "title": "56",
+      "author": "Bob Ong",
+      "cover": "https://assets.hardcover.app/external_data/60036089/bb166c99b8f91e08e78bce57b087cd5589e8e25d.jpeg",
+      "pages": 300,
+      "progress": 28,
+      "percentage": 9,
+      "rating": null,
+      "started_date": "2026-11-28",
+      "finished_date": null,
+      "status": "currently-reading"
+    },
     {
       "id": 458947,
       "title": "A Court of Wings and Ruin",
